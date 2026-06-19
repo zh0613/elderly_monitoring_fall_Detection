@@ -19,4 +19,12 @@ A computer vision-based elderly safety monitoring system designed to improve ind
 - Successfully receives falls alerts.
 - Provides scheduled reminders for medication and meals.
 - Provide alerts and location tracking while elderly is far away from home.
+
+## Screenshots
+Reminder Management
 - <img width="344" height="691" alt="image" src="https://github.com/user-attachments/assets/dd0b6100-da5c-4b4d-8d5e-4076dfee18d1" />
+Location Monitoring
+- <img width="329" height="661" alt="image" src="https://github.com/user-attachments/assets/0d7c9ddb-8199-4924-ace7-940abeda1fd4" />
+<img width="313" height="639" alt="image" src="https://github.com/user-attachments/assets/d3dad305-c15e-44e8-8874-7934e3d51357" />
+
+
